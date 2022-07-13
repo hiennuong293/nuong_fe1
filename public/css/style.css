@@ -1,0 +1,286 @@
+header{
+    background: url(../images/banner3.jpg);
+    background-size: cover;
+    background-position-x: -450px;
+}
+.nav li:hover{
+    color: #fff;
+    box-shadow: 0 1px white;
+
+}
+.shadow{
+    background-color: rgba(0, 0, 0, .5);
+}
+.logo{
+    display: inline-block;
+}
+.navbar{
+    float: right;
+    margin-right: 20px;
+}
+.navbar button{
+    margin-left: 100px;
+    padding: 20px 30px;
+    border-radius: 5px;
+    border-color: #fff;
+}
+.shadow button:hover{
+    background: #000;
+    color: #fff;
+    border-color: #000;
+}
+.nav li{
+    display: inline-block;
+    color: #fff;
+    margin-left: 20px;
+}
+.nav{
+    display: inline-block;
+}
+.content{
+    color: #fff;
+    text-align: center;
+    padding-bottom: 200px;
+    margin-top: 100px;
+}
+.content button{
+    margin-top: 100px;
+    padding: 20px 30px;  
+    border-radius: 5px;
+    border-color: #fff;
+}
+.content h1{
+    font-size: 60px;
+}
+.content p{
+    font-size: 20px;
+    color: #fff;
+}
+.content button{
+    margin-top: 35px;
+    
+}
+.main-top{
+    text-align: center;
+    padding: 50px 0    ;
+}
+.main-top h1 span{
+    color: #F98541;
+    margin-top: 20px;
+
+}
+.main-top h1{
+    font-size: 50px;
+}
+.main-top p{
+    font-size: 20px;
+    color: #808283;
+}
+.picture-nav .website{
+    background: url(../images/index.jpg);
+    height: 400px;
+    width: 400px;
+    background-size: cover;
+
+}
+.picture-nav div{
+    font-weight: bold;
+    font-size: 25px;
+}
+.picture-nav .website-nav{
+    background: url(../images/index-dark.jpg);
+    height: 400px;
+    width: 400px;
+    background-size: cover;
+}
+.picture-nav{
+    display: inline-block;
+    margin: 0 15px;
+
+}
+.picture{
+    text-align: center;
+    margin-top: 100px;
+}
+.main-bot{
+    text-align: center;
+    padding: 100px 0;
+}
+.main-bot h1 span{
+    color: #F98541;
+
+}
+.main-bot h1{
+    font-size: 50px;
+}
+.main-bot p{
+    font-size: 20px;
+    color: #808283;
+}
+.picture{
+    margin-top: 0;
+    padding: 100px 0;
+    background: #dbeaff;
+}
+.picture .br-img{
+    background: white;
+    width: 250px;
+    height: 200px;
+    padding: 30px 0;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.picture-important .website-nav{
+    background: url(../images/index.jpg);
+    height: 400px;
+    width: 33%;
+    background-size: cover;
+}
+.container{
+    width: 1140px;
+}
+.container{
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -15px;
+}
+.col-md-4{
+    width: 33.33%;
+    flex: 0 0 auto;
+    padding: 0 15px;
+}
+.picture .web p{
+    font-weight: bold;
+    font-size: 25px;
+}
+.web .web-picture{
+    background: url(../images/about.jpg);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+}
+.web .web-picture1{
+    background: url(../images/services.jpg);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+}
+.web .web-picture2{
+    background: url(../images/service-details.jpg);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+}
+.web .web-picture3{
+    background: url(../images/portfolio.jpg);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+}
+.web .web-picture4{
+    background: url(../images/portfolio-details.jpg);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+}
+.web .web-picture5{
+    background: url(../images/pricing.jpg);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+}
+.web .web-picture6{
+    background: url(../images/team.jpg);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+}
+.web .web-picture7{
+    background: url(../images/team-details.jpg);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+}
+.web .web-picture8{
+    background: url(../images/blog.jpg);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+}
+.web .web-picture9{
+    background: url(../images/blog-details.jpg);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+}
+.web .web-picture10{
+    background: url(../images/faq.jpg);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+}
+.web .web-picture11{
+    background: url(../images/contact.jpg);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+}
+.web .web-picture12{
+    background: url(../images/error-404.jpg);
+    background-position: center;
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+}
+.content button:hover{
+    background: #000;
+    color: #fff;
+}
+.core{
+    text-align: center;
+    padding: 100px 0;
+}
+.core h1{
+    font-size: 50px;
+}
+.core p{
+    font-size: 20px;
+    color: #808283;
+}
+.end{
+    background: rgba(13, 15, 49, 0.5);
+    text-align: center;
+    padding: 200px 0;
+}
+.end h1{
+    font-size: 60px;
+    color: #fff;
+    padding: 40px 0px;
+}
+.end p{
+    font-size: 20px;
+    color: #fff;
+}
+footer{
+    background: url(../images/footer-bg.jpg);
+    background-size: cover ;
+    background-position: center;
+   
+}
+.end button:hover{
+    background:#000;
+    color: #fff;
+    border-color: #000;
+}
+.end button{
+    padding: 20px 50px;
+    background: none;
+    border-color: #fff;
+    color: #fff;
+    border-radius: 5px;
+    margin-top: 20px;
+}
